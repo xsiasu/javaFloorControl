@@ -25,11 +25,5 @@ public class AuthApp3 {
         } else {
             System.out.println("who are you");
         }
-
-
-
-
-
-
     }
 }
